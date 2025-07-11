@@ -1,0 +1,3 @@
+# Justificación de mantener estas versiones
+- Si bien estos archivos se facil recuperación en git, en aquel entonces no sabía usar ningún sistema de control de versiones
+- Se mantendrán por la nostalgía que me producen... 
